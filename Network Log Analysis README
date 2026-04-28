@@ -1,0 +1,32 @@
+# 📊 Network Log Analysis Project
+
+## 🎯 Objective
+Analyze network logs to extract insights and detect anomalies.
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- CSV Data
+
+---
+
+## 📂 Steps
+1. Load raw log data
+2. Clean and preprocess data
+3. Analyze traffic patterns
+4. Identify top IPs and errors
+
+---
+
+## 📈 Output
+- Clean dataset
+- Summary reports
+- Charts (optional)
+
+---
+
+## 🚀 Future Improvements
+- Real-time log processing
+- Integration with SIEM tools
