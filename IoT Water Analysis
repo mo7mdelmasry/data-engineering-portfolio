@@ -1,0 +1,36 @@
+# 🌊 IoT Water Data Analysis
+
+## 🎯 Objective
+Analyze IoT sensor data related to water quality and production.
+
+---
+
+## 📊 Data Includes
+- Temperature
+- Pressure
+- Water Quality Metrics
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+
+---
+
+## 📂 Analysis
+- Detect anomalies
+- Identify trends
+- Generate summary insights
+
+---
+
+## 📈 Output
+- Clean dataset
+- Basic analysis report
+
+---
+
+## 🚀 Future Work
+- Dashboard integration
+- Predictive analysis
