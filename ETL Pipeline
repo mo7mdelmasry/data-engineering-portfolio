@@ -1,0 +1,37 @@
+# 🔄 ETL Pipeline Project
+
+## 🎯 Objective
+Build a simple ETL pipeline using Python.
+
+---
+
+## 🔧 Process
+
+### Extract
+- Read data from CSV/log files
+
+### Transform
+- Clean data
+- Remove duplicates
+- Format data
+
+### Load
+- Save into structured format (CSV / SQLite)
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+
+---
+
+## 📈 Output
+- Clean structured dataset
+- Reusable pipeline script
+
+---
+
+## 🚀 Future Enhancements
+- Automate using Airflow
+- Connect to database
